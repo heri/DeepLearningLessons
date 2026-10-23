@@ -23,3 +23,7 @@ Quick reference list by [@heri](http://twitter.com/heri) - Feel free to fork or 
 * Can learn bias from data. No data from Africa or under-represented groups. See also word2vec bias
 * Needs massive dataset to generalize. Needs advanced computing rigs to train ($)
 * Still needs optimization (client<->server or special optimized chip) to run inference on devices
+
+## Who is behind this
+
+Heri is a software engineer, photographer, father and Montréaler. Building in the open — see more projects at [studiozenkai.com](https://studiozenkai.com).
